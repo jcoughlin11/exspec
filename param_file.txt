@@ -1,0 +1,18 @@
+Snapshot           ./snapshot_002-fake_gas-dspec-tspec
+Snapshot Base      snapshot_002-fake_gas-dspec-tspec
+HM_File            ./haardt_madau_quasar.dat
+Dark_Param         0
+Nlos               1
+Npixels            3000
+Baryon_Frac        0.15
+GUL                3.085678e21
+GUM                1.989e43
+Norm_tolerance     0.01
+max_norm_iters     1000
+W0                 -1.0
+Wa                 0.0
+H_Mass_Frac        0.76
+He_Mass_Frac       0.24
+Molweight          0.588
+Delta_pix          0.01
+Min Pixel Frac for Truncating 3.0
